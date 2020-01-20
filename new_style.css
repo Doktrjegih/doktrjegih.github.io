@@ -159,6 +159,7 @@ body {
 }
 
 .button {
+  margin-bottom: 60px;
   padding: 6px 20px;
   display: inline-block;
   vertical-align: baseline;
@@ -191,4 +192,8 @@ body {
 .footer-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
+}
+
+.little {
+  font-size: 6px;
 }
