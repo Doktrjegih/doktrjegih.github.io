@@ -197,3 +197,7 @@ body {
 .little {
   font-size: 6px;
 }
+
+td {
+	text-align: center;
+}
